@@ -15,6 +15,8 @@ Download the latest build from the releases section, unzip, move to your applica
 
 If you want the app to start on boot, [follow these steps to add NearDrop as a login item.](https://support.apple.com/guide/mac-help/open-items-automatically-when-you-log-in-mh15189/mac)
 
+https://www.youtube.com/watch?v=2AQQctog1Xg
+
 #### Installation with Homebrew
 
 ```
